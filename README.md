@@ -1,3 +1,5 @@
+> **状态：已归档（2026-10-20）**。早期 RPG 客户端原型，后续作品见 [MMORPGDemo3](https://github.com/YIMO691/MMORPGDemo3)。
+
 # UnityDemo_MMORPG
 
 基于 **Unity 2022.3.62f3c1** 的 MMORPG 客户端原型工程。
